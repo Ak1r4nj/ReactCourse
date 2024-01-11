@@ -9,7 +9,7 @@ function App() {
         <h2>
           Forms
         </h2>
-        <MyForm />
+        <MyForm user = {{name:"Cristohper", email: "falala@gmail.com", bio: "Descrição inserida pelo usuário", role: 'Developer'}}/>
       </div>
     </>
   )
