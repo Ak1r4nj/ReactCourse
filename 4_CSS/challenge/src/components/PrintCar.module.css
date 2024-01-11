@@ -1,0 +1,15 @@
+.print_car{
+    justify-content: center;
+    align-items: center;
+    border: 3px solid rgb(73, 73, 73);
+    border-radius: 8px;
+    color: rgb(237, 255, 221);
+    padding: 10px;
+}
+
+.print_car p {
+    font-weight: 500;
+    margin-bottom: 2px;
+    color: rosybrown;
+    padding: 0;
+}
