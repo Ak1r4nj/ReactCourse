@@ -56,7 +56,7 @@ const MyForm = ({user}) => {
             {/* criação de Select*/}
             <label>
               <span>Função Select</span>
-              <select name = 'role' onChange={(e) => setRole(e.target.value)}>
+              <select name = 'role' onChange={(e) => setRole(e.target.value) value = {role}}>
                 <option value = 'user'>Usuário</option>
                 <option value = 'dev'>Developer</option>
                 <option value = 'teacher'>Professor</option>
