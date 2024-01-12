@@ -1,0 +1,13 @@
+.start{
+  align-items: center;
+}
+
+.start h1 {
+   font-size: 3rem;
+}
+
+.start p {
+  margin-bottom: 2em;
+  color: azure;
+  text-align: center;
+}
